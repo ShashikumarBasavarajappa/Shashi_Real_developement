@@ -1,0 +1,138 @@
+public void init();
+<!-- this life cycle method which is initiaze only once. -->
+
+
+publc void service(Servlet request, Servlet Response){
+
+}
+
+<!-- provides response for the incoming request. It is invoked at each request by the web container -->
+
+public void destroy(){
+
+}
+
+<!-- it destroyed the event after servlet terminates -->
+
+public Servlet getServletConfg() --> in object way it will return
+
+public String getservletinfo() --> in the String format it will return.
+
+
+/*
+load-on-startup ----> loaded at first_ time start up 
+
+it will take more time bettter to specify load-on-startup, so then load will load.
+
+
+We have several Attributes 
+ request scope 
+ session scope
+ application scope
+ 
+ SetAttibute(name, Object)   
+ getAttribute(name)
+ getInitParameter();
+ removeAtribues();
+ 
+ <!-- URL Mapping
+ URL redirecting concept in which in href we are passign the data we can get the data in another
+ servlet and also we are using this when only if link and all
+ 
+ Advantages no need of the form submission again and again.
+  -->
+  
+  <!-- Get Session -->
+  
+  getsession -->  we can get session parameters
+  getsession(boolean object) -->  if sesison does not exist i will create new sessiion
+  
+  getId(),getcreatedTime(), GetLastAccessedTIme(),Invalidate().
+  
+  <!--  Close session -->
+  
+  
+  
+ <!-- Event and Listern-->
+ 
+ 	Events are basically occurrence of something. Changing the state of an object is known as an event.
+ 
+ <!-- END of things --> 
+ 
+ <!-- Filter Servlet -->
+ 	A filter is an object that is invoked at the pre-processing and post-processing of a request.
+
+	It is mainly used to perform filtering tasks such as conversion, logging, compression, 
+	encryption and decryption, input validation etc.
+	
+ 
+ 	Filter Entry we declared in the web.xml, if we remove then filter will be removed from the code.
+ 	
+ 	Usage of Filter
+		 	
+		recording all incoming requests
+		logs the IP addresses of the computers from which the requests originate
+		conversion
+		data compression
+		encryption and decryption
+		input validation etc.
+
+    Advantage of Filter
+
+		Filter is pluggable.
+		One filter don't have dependency onto another resource.
+		Less Maintenance 
+
+	Filter API
+		Filter
+		FilterChain
+		FilterConfig
+		
+
+
+1. Filter INterface
+	
+		init() -- Initiaze init
+		doFilter() -- invoked when ever user request
+		destory()  -- destory the invoked object
+ <!-- End of the Servlet -->
+  
+ 
+ 
+ 
+ <!-- Servlet input stream and Servlet Output Stream -->
+ 
+ ServletInputStream will help read the data.
+ 
+ ServletOutputStream write data into that.
+ 
+ by using the print and println () we are writting response to that.
+ 
+ <!-- End of the Strea -->
+ 
+ 
+<!-- Servlet with Annotation -->
+	@WebServlet("/sdasd") we are using for specifly.
+	
+	If you are using annotaton then no need of the web.xml file changes.
+
+
+<!-- End of the annotation -->
+ 
+ <!-- Single Threaded Model Interface -->
+ 
+ 
+ 
+ <!--- End of the Single theread model interface -->
+ 
+ 
+ 
+ 
+  
+
+
+
+
+
+
+

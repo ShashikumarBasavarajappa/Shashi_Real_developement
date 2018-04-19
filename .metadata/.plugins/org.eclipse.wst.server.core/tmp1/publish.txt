@@ -1,0 +1,4 @@
+#GlassFish 3
+#Wed Apr 04 20:39:36 IST 2018
+org.eclipse.jst.jee.server\:Stuct_project_by_shashi=E\:\\GlasssFish\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\Stuct_project_by_shashi
+org.eclipse.jst.jee.server\:EJB_Client=E\:\\GlasssFish\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\EJB_Client

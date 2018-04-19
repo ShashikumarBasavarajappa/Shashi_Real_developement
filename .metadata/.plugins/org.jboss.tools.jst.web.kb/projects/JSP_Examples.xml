@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/insbasavar/Videos/activation.jar"/>
+  <path value="C:/Users/insbasavar/Videos/commons-configuration-1.0.jar"/>
+  <path value="C:/Users/insbasavar/Videos/itextpdf-5.1.0.jar"/>
+  <path value="C:/Users/insbasavar/Videos/mail.jar"/>
+  <path value="C:/Users/insbasavar/Videos/javax.servlet-api-3.0.1.jar"/>
+  <path value="C:/Users/insbasavar/Videos/servlet-api.jar"/>
+  <path value="E:/SHASHI REAL DEVELOPMEMENT/JSP_Examples/WebContent/WEB-INF/lib/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/c-1_0-rt.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/c-1_0.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/c.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/fmt-1_0-rt.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/fmt-1_0.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/fmt.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/fn.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/permittedtaglibs.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/scriptfree.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/sql-1_0-rt.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/sql-1_0.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/sql.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/x-1_0-rt.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/x-1_0.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/x.tld" project="JSP_Examples"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/insbasavar/Videos/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="JSP_Examples"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="JSP_Examples"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/insbasavar/Videos/ee.minimum-1.0.0.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <el>
+   <linked-el length="21" name="%0" offset="1098" path="%1"/>
+   <linked-el length="11" name="%0" offset="1044" path="%1"/>
+   <linked-el length="17" name="%2" offset="813" path="%1"/>
+   <linked-el length="27" name="%2" offset="752" path="%1"/>
+   <linked-el length="25" name="%2" offset="864" path="%1"/>
+   <linked-el length="25" name="%3" offset="864" path="%1"/>
+   <linked-el length="12" name="%4" offset="483" path="%1"/>
+   <linked-el length="12" name="%4" offset="564" path="%1"/>
+   <linked-el length="9" name="%5" offset="1453" path="%1"/>
+   <linked-el length="6" name="%6" offset="1306" path="%1"/>
+   <linked-el length="12" name="%7" offset="1596" path="%1"/>
+   <linked-el length="12" name="%7" offset="1684" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="income" value="%0"/>
+  <alias path="catchexception" value="%2"/>
+  <alias path="catchexception.message" value="%3"/>
+  <alias path="Income" value="%4"/>
+  <alias path="name" value="%5"/>
+  <alias path="j" value="%6"/>
+  <alias path="url" value="%7"/>
+  <alias path="/JSP_Examples/WebContent/Test1.jsp" value="%1"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>

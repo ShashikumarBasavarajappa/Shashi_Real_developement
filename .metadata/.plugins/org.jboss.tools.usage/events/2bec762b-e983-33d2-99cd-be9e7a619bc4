@@ -1,0 +1,11 @@
+#Thu Apr 19 11:25:16 IST 2018
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1524117316060
+c=0
+cmp=usage
+a=finishWizard
+cl=org.nodeclipse.ui.wizards.NodeProjectWizard
+v=2.2.101
+s=0

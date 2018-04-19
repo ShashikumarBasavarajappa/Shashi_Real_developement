@@ -1,0 +1,16 @@
+var maxTime=1000;
+
+var eventHandler =  function(v, callback){
+	
+};
+
+var handleResults =  function(err, results, time){
+	
+	
+}
+
+
+
+
+
+eventHandler(2, handleResults);

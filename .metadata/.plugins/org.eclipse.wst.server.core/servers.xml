@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="1" glassfish.adminname="admin" glassfish.adminserverportnumber="4848" glassfish.domainpath="E:\GlasssFish\glassfish4\glassfish\domains\domain1" glassfish.serverportnumber="8080" hostname="localhost" id="GlassFish 4 [domain1]" name="GlassFish 4 [domain1]" runtime-id="GlassFish 4" server-type="glassfish.server" server-type-id="glassfish.server" start-timeout="240" stop-timeout="240" timestamp="41">
+    <list key="modules" value0="Stuct_project_by_shashi::org.eclipse.jst.jee.server:Stuct_project_by_shashi::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="1" auto-publish-time="1" hostname="localhost" id="JBoss AS 7.1" jrebel.old-auto-publish-setting="2" name="JBoss AS 7.1" org.jboss.ide.eclipse.as.core.server.EXPOSE_MANAGEMENT_SERVICE="true" org.jboss.ide.eclipse.as.core.server.IGNORE_LAUNCH_COMMANDS="false" org.jboss.ide.eclipse.as.core.server.attributes.shutdownPollerKey="org.jboss.ide.eclipse.as.core.runtime.server.WebPoller" org.jboss.ide.eclipse.as.core.server.attributes.startupPollerKey="org.jboss.ide.eclipse.as.core.runtime.server.WebPoller" org.jboss.ide.eclipse.as.core.server.deployDirectoryType="server" org.jboss.ide.eclipse.as.core.server.serverMode="local" org.jboss.ide.eclipse.as.core.server.webPort="8098" org.jboss.ide.eclipse.as.core.server.webPortAutoDetect="false" org.jboss.ide.eclipse.as.core.server.webPortAutoDetect.XPath="Ports/JBoss Web" runtime-id="JBoss AS 7.1 Runtime" server-type="org.jboss.ide.eclipse.as.71" server-type-id="org.jboss.ide.eclipse.as.71" start-timeout="450" stop-timeout="450" timestamp="4">
+    <list key="modules"/>
+  </server>
+</servers>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server default="true" host="localhost" parentServerId="JBoss AS 7.1" version="8.6.0">
+    <admin password="VE9LIyMhVUZBeGFlX0RxY05nVk1heGdidVZzdTQ0MHY1NG93UUVMdHJIbmVsMVVGM0tmcXFLbnBabFE2UWFlMmYtbUhDM2xJVDBaWUtVUVBCMV9PV2dha1hvd2c=" port="9999" secure="false" user="admin"/>
+    <jdbc jdbcport="31000" jdbcsecure="false" jdbcuser=""/>
+  </server>
+</servers>

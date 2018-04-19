@@ -1,0 +1,27 @@
+package com.dev.test;
+
+public class Employee {
+	
+	private String name1;
+	private int id;
+	
+	public int getId() {
+		return id;
+	}
+	public String getName1() {
+		return name1;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	
+	public void setName1(String name1) {
+		this.name1 = name1;
+	}
+	
+	public Employee() {
+		System.out.println("=======");
+	}
+	
+
+}

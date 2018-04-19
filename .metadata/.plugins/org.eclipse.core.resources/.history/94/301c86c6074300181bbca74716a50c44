@@ -1,0 +1,23 @@
+var maxTime=1000;
+
+var eventHandler =  function(v, callback){
+	
+};
+
+var handleResults =  function(err, results, time){
+	
+	if(err){
+		console.log("cccccccccccc");
+	}else{
+		console.log("nnnnnnnnnnnnnn");
+	}
+};
+
+
+
+
+
+eventHandler(2, handleResults);
+
+
+console.log("============");

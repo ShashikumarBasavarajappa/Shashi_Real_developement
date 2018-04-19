@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/insbasavar/Videos/activation.jar"/>
+  <path value="C:/Users/insbasavar/Videos/mail.jar"/>
+  <path value="C:/Users/insbasavar/Videos/itextpdf-5.1.0.jar"/>
+  <path value="C:/Users/insbasavar/Videos/javax.servlet-api-3.0.1.jar"/>
+  <path value="C:/Users/insbasavar/Videos/servlet-api.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <el/>
+ </validation>
+ <aliases/>
+ <includes/>
+ <uris/>
+</kb-project>

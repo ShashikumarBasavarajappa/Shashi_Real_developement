@@ -1,0 +1,7 @@
+package com.dev.test;
+
+public class Main_Map_Class {
+	public static void main(String[] args) {
+		
+	}
+}

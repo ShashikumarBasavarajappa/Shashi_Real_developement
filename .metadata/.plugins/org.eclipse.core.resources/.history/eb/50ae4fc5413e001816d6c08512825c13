@@ -1,0 +1,16 @@
+package com.dev.test;
+
+import java.util.Map;
+
+public class MapExample {
+	
+	private int qid;
+	private String qname;
+	private Map<String, String> answers;
+	
+	public MapExample() {
+		System.out.println("=====");
+	}
+	
+
+}

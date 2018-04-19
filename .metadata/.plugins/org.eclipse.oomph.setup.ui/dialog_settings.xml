@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SetupWizard">
+		<section name="ProgressPage">
+			<item value="false" key="restartIfNeeded"/>
+			<item value="true" key="dismissAutomatically"/>
+		</section>
+		<section name="ConfirmationPage">
+			<item value="true" key="showAll"/>
+		</section>
+		<section name="VariablePage">
+		</section>
+	</section>
+	<section name="org.eclipse.oomph.setup.ui.P2TaskUIServicesPrompter$UnsatisifiedRequirementsPrompter">
+		<item value="500" key="dialogHeight"/>
+		<item value="700" key="dialogWidth"/>
+	</section>
+</section>
