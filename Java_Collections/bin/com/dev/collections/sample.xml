@@ -1,0 +1,37 @@
+<n0:CandidateAssessmentResult xmlns:n0="http://usps.gov/erecruit/assessment">
+<CandidateRecordInfo>
+    <Id>
+        <IdValue>PSI-5904619</IdValue>
+    </Id>
+</CandidateRecordInfo>
+<PersonalData>
+    <PersonId>
+        <IdValue>13938348</IdValue>
+    </PersonId>
+</PersonalData>
+<PositionPosting>
+    <Id>
+        <IdValue>10182676</IdValue>
+    </Id>
+</PositionPosting>
+<BatteryResults>
+    <EligibilityRating>Completed</EligibilityRating>
+    <AssessmentResult>
+        <AssessmentId>473</AssessmentId>
+        <AssessmentDate>2018/04/18</AssessmentDate>
+        <AssessmentExpiration>2018/04/18</AssessmentExpiration>
+        <AssessmentRetestDate>2018/08/16</AssessmentRetestDate>
+        <Score>
+            <Id>386</Id>
+            <Value>0.00</Value>
+            <EligibilityRating>INELIGIBLE</EligibilityRating>
+        </Score>
+    </AssessmentResult>
+</BatteryResults>
+<UserArea>
+    <CustomFields>
+        <FieldName>SysID</FieldName>
+        <FieldValue>ERP</FieldValue>
+    </CustomFields>
+</UserArea>
+</n0:CandidateAssessmentResult>

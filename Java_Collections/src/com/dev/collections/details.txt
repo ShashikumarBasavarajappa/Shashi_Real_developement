@@ -1,0 +1,7 @@
+                  collections
+                  	a. list --> 1. ArrayList 2. linkedlist
+                  	b. set  ->  1. Hashset   2. Treeset
+                  	c. quea  -> 1. Listque   2. ArrayQuer
+                  	
+
+                  	// Hashset which compare using hashcode same as equals for object compare

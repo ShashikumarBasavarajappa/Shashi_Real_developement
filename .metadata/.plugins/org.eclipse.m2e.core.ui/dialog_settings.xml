@@ -35,8 +35,21 @@
 	</section>
 	<section name="org.eclipse.m2e.core.ui.internal.preferences.LocalArchetypeCatalogDialog">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\PSIMAIN_CODE\2018_04_27_OPS_INCIDENT_REPORTS_RELEASE_BRANCH_FOR_ACT_RELEASE"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item value="http://repo1.maven.org/maven2/archetype-catalog.xml" key="catalog"/>
+		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -81,6 +94,7 @@
 			<item value="org.jboss.tools.example.forge"/>
 		</list>
 		<list key="location">
+			<item value="E:\spring tool\Development"/>
 			<item value="E:\SHASHI REAL DEVELOPMEMENT\Stuct_project_by_shashi"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -94,13 +108,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.development.Development"/>
+			<item value="com.development.Development_time"/>
 			<item value="com.developer"/>
 			<item value="com.developer.Spring_developement"/>
 		</list>
 		<list key="groupId">
+			<item value="com.development"/>
 			<item value="com.developer"/>
 		</list>
 		<list key="artifactId">
+			<item value="Development"/>
+			<item value="Development_time"/>
 			<item value="Spring_Final_development"/>
 			<item value="Spring_developement"/>
 		</list>

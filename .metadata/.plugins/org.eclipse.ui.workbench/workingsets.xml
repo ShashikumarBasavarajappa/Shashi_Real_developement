@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1526626216486_2" label="psi-lc-ops" name="psi-lc-ops"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1522643835477_0" label="Window Working Set" name="Aggregate for window 1522643835476"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1523942555988_1" label="Window Working Set" name="Aggregate for window 1523942555988"/>
 </workingSetManager>

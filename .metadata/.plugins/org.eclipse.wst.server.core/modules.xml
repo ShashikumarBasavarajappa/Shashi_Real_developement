@@ -4,6 +4,8 @@
   <module moduleId="org.eclipse.jst.jee.server:Struct_developer" serverId="Tomcat v8.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Training_program" serverId="Tomcat v8.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Stuct_project_by_shashi" serverId="GlassFish 4 [domain1]"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:Development" serverId="Tomcat v8.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:EJB_Client" serverId="GlassFish 4 [domain1]"/>
   <module moduleId="org.eclipse.jst.jee.server:jboss-springmvc-webapp" serverId="JBoss AS 7.1"/>
+  <module moduleId="org.eclipse.jst.jee.server:Try_To_Do-Until" serverId="Tomcat v8.0 Server at localhost"/>
 </modules>

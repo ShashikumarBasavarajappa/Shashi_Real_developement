@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <publish-info>
+  <server id="Tomcat v8.0 Server at localhost" path="publish3.dat"/>
   <server id="GlassFish 4 [domain1]" path="publish1.dat"/>
   <server id="JBoss AS 7.1" path="publish4.dat"/>
 </publish-info>
